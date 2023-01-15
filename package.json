@@ -2,10 +2,13 @@
   "name": "gantt-task-react-synergist",
   "version": "0.3.9",
   "description": "Interactive Gantt Chart for React with TypeScript.",
-  "author": "MaTeMaTuK <maksym.vikarii@gmail.com>",
+  "author": "MaTeMaTuK <maksym.vikarii@gmail.com> & kushan pabasara",
   "homepage": "https://github.com/MaTeMaTuK/gantt-task-react",
   "license": "MIT",
-  "repository": "MaTeMaTuK/gantt-task-react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushan1992/grantt-synergist.git"
+},
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
